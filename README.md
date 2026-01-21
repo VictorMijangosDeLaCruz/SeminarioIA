@@ -1,2 +1,1 @@
-# SeminarioIA
-Seminario de IA en la Facultad de Ciencias
+<meta http-equiv="refresh" content="0; url=/page/home.html">
